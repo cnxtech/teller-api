@@ -1,0 +1,15 @@
+{
+    "name": "philetaylor/teller-api",
+    "description": "A Full PHP7+ API implementation for Teller.io",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Phil E. Taylor",
+            "email": "phil@phil-taylor.com"
+        }
+    ]
+}
