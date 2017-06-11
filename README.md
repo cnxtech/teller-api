@@ -1,5 +1,5 @@
 # teller-api
-A Full PHP7+ API implementation for Teller.io
+A Full PHP7+ API implementation for Teller.io using Guzzle as middleware
 
 # Installation
 
