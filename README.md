@@ -26,7 +26,7 @@ require_once('vendor/autoload.php');
 //var_dump( \Teller\Teller::getAccount());
 //var_dump( \Teller\Teller::getAccount());
 //var_dump( \Teller\Teller::getTransactions());
-//var_dump( \Teller\Teller::getTransaction('cc918508-1111-4ee9-afa6-a1c615e08262'));
+//var_dump( \Teller\Teller::getTransaction('cc918508-1111-4ee9-afa6-a1c615e08262', 'uuid-of-account-that-this-transaction-is-in'));
 //var_dump( \Teller\Teller::getDirectDebits());
 //var_dump( \Teller\Teller::getDirectDebit('023de905-2222-4a12-869c-e9a0414b8426'));
 //var_dump( \Teller\Teller::getPayee('096cf26b-a559-3333-a8f0-84245fc9e137'));
