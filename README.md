@@ -13,8 +13,6 @@ Install with composer
 ```php
 <?php
 
-// composer require philetaylor/teller
-
 require_once('vendor/autoload.php');
 
 \Teller\Teller::setPersonalAccessToken('YOUR PERSONAL TOKEN');
