@@ -11,5 +11,10 @@
             "name": "Phil E. Taylor",
             "email": "phil@phil-taylor.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Teller\\": "src/"
+        }
+    }
 }
